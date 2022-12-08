@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39c93b60-cffb-4dfe-9ea1-88c8032bf20f" name="aliyun" url="http://www.wangchenfei.com">
+        <fileTransfer accessType="SFTP" host="wangchenfei.com" port="22" sshConfigId="69c75c7c-3d9d-475c-8927-7fe9ec2a5995" sshConfig="root@wangchenfei.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
